@@ -12,7 +12,7 @@ const NavBar = props => {
           onTriggerSearchingQuery,
           onChangeSearchInput,
           searchInput,
-          apiStatus,
+          // apiStatus,
         } = value
 
         const onChangeHandler = event => onChangeSearchInput(event.target.value)

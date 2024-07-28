@@ -77,4 +77,3 @@ class Upcoming extends React.Component {
 }
 
 export default Upcoming
-
